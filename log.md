@@ -1,30 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Sunday, April 12, 2020
+**Today's Progress**: First day of this (possibly tough) challenge! So as I am learning and practicing Swift for my current job, I decided to take some coding challenges and solve them as first approach. These are taken from codewars.com.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Sometimes I think a problem might be difficult at first glance, but I need to think about it deeply and realize it is not the end of the world. Just to create a first time solution and then enhace it and see if it works as expected. Sometimes it will be a brute force solution but the main progress is to be able to solve it and avoid giving up. These solutions might not be the best, but once submitted, I can see other solutions and admire how efective (and clever!) they are. That's why I like **codewars**.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Calculate String Rotation (Swift)](https://www.codewars.com/kata/reviews/58de85f6355018cdcc000430/groups/5e93df43238ad00001b7b0eb)
