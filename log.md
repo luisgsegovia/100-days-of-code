@@ -12,3 +12,13 @@
 **Today's Progress**: Today was an stressful day. I struggled to solve a kata in codewars.com because instructions were not so clear and the way to solve it in Swift is somewhat complicated because there is no native method or function to accomplish it. So I decided to solve it tomorrow and enhance my solution.
 
 **Thoughts:** I struggled and feel anxious and stressed, but I need to calm down and watch things from another perspective to clarify my thoughts.
+
+### Day 3: Tuesday, April 14, 2020
+
+**Today's Progress**: I finished yesterday's kata and it was so much clearer for me.
+
+**Thoughts:** I struggled a little bit as I was learning how Swift works with Strings . Arrays and indexes, because it is really different and sometimes make you confuse (or even implement by hand some solutions), specially comming from other programming language practices. In my case, Java. But in the end, I could solve the problem and earn reputation.
+
+Also, I'm intending to create my own personal page, as a Currivulum Vitae and project history for future references. 
+
+**Link to work:** [Encrypt this! (Swift)](https://www.codewars.com/kata/reviews/5b97fc695c9ff9dc8e002795/groups/5e95f5887d0f100001e481a4)
