@@ -22,3 +22,11 @@
 Also, I'm intending to create my own personal page, as a Currivulum Vitae and project history for future references. 
 
 **Link to work:** [Encrypt this! (Swift)](https://www.codewars.com/kata/reviews/5b97fc695c9ff9dc8e002795/groups/5e95f5887d0f100001e481a4)
+
+### Day 4: Wednesday, April 15, 2020
+
+**Today's Progress**: I finished another kata but this time was in Java.
+
+**Thoughts:** It resulted in a really good excercise and not to complicated. Today I not struggled lol.
+
+**Link to work:** [Strongest even number in an interval (Java)](https://www.codewars.com/kata/5d16af632cf48200254a6244)
