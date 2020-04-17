@@ -30,3 +30,12 @@ Also, I'm intending to create my own personal page, as a Currivulum Vitae and pr
 **Thoughts:** It resulted in a really good excercise and not to complicated. Today I not struggled lol.
 
 **Link to work:** [Strongest even number in an interval (Java)](https://www.codewars.com/kata/5d16af632cf48200254a6244)
+
+### Day 5: Tuesday, April 16, 2020
+
+**Today's Progress**: I finished some other katas but this time was in Swift.
+
+**Thoughts:** Pending
+
+**Link to work:**  [Playing with digits (Swift)](https://www.codewars.com/kata/reviews/583d5d90185fd5b9ba0000a0/groups/5e98a7f2a2e43d00011d3d1e), [CamelCase Method (Swift)](https://www.codewars.com/kata/reviews/5d8c4db788c4e100017c2271/groups/5e98cb7ba2e43d0001307320)
+
