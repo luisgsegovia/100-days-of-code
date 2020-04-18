@@ -35,7 +35,15 @@ Also, I'm intending to create my own personal page, as a Currivulum Vitae and pr
 
 **Today's Progress**: I finished some other katas but this time was in Swift.
 
-**Thoughts:** Pending
+**Thoughts:** Nothing really relevant, but I felt confident soling the problems
 
 **Link to work:**  [Playing with digits (Swift)](https://www.codewars.com/kata/reviews/583d5d90185fd5b9ba0000a0/groups/5e98a7f2a2e43d00011d3d1e), [CamelCase Method (Swift)](https://www.codewars.com/kata/reviews/5d8c4db788c4e100017c2271/groups/5e98cb7ba2e43d0001307320)
+
+### Day 6: Tuesday, April 17, 2020
+
+**Today's Progress**:Today I fnished one Kata related to base 64 encode/decode- It as somewhat easy but I has to look around for methods.
+
+**Thoughts:** Today I did not engage very much to coding, because I got occcupied with some other things. But managed to finished it. Tomorrow will be better!
+
+**Link to work:**  [Base64 Encoding (Swift)](https://www.codewars.com/kata/reviews/5899e9bd4382c46282002005/groups/5e3ec39476126b0001d8ca43)
 
