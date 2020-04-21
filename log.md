@@ -39,11 +39,24 @@ Also, I'm intending to create my own personal page, as a Currivulum Vitae and pr
 
 **Link to work:**  [Playing with digits (Swift)](https://www.codewars.com/kata/reviews/583d5d90185fd5b9ba0000a0/groups/5e98a7f2a2e43d00011d3d1e), [CamelCase Method (Swift)](https://www.codewars.com/kata/reviews/5d8c4db788c4e100017c2271/groups/5e98cb7ba2e43d0001307320)
 
-### Day 6: Tuesday, April 17, 2020
+### Day 6: Friday, April 17, 2020
 
-**Today's Progress**:Today I fnished one Kata related to base 64 encode/decode- It as somewhat easy but I has to look around for methods.
+**Today's Progress**: Today I fnished one Kata related to base 64 encode/decode- It as somewhat easy but I has to look around for methods.
 
 **Thoughts:** Today I did not engage very much to coding, because I got occcupied with some other things. But managed to finished it. Tomorrow will be better!
 
 **Link to work:**  [Base64 Encoding (Swift)](https://www.codewars.com/kata/reviews/5899e9bd4382c46282002005/groups/5e3ec39476126b0001d8ca43)
 
+### Day 7: Saturday, April 18, 2020
+
+**Today's Progress**: Close to finish another kata bt did not managed to finish. I'll retake it tomorrow
+
+**Thoughts:** Felt somewhat frustrated as I could not get the solution, but tomorow I will retry!
+
+### Day 8: Monday, April 20, 2020
+
+**Today's Progress**: Managed to finish one kata today and make me really think to solve it
+
+**Thoughts:** the kata was somewhat tricky and makes you think to enhance your code efficiency to avoid time out. I hd to find a solution to save execution time. Trying to get all the divisors from 1 to n, it was unnecessary to look for the upper half, as the final result would be the number itself. So it was better to look from i to n/2 and append the number itself to the end. Really cool.
+
+**Link to work:**  [Integers: Recreation One (Swift)](https://www.codewars.com/kata/reviews/58ae9afb3c21719e19000ce1/groups/5e9e60edd56be80001ed71f3)
