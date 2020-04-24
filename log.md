@@ -60,3 +60,12 @@ Also, I'm intending to create my own personal page, as a Currivulum Vitae and pr
 **Thoughts:** the kata was somewhat tricky and makes you think to enhance your code efficiency to avoid time out. I hd to find a solution to save execution time. Trying to get all the divisors from 1 to n, it was unnecessary to look for the upper half, as the final result would be the number itself. So it was better to look from i to n/2 and append the number itself to the end. Really cool.
 
 **Link to work:**  [Integers: Recreation One (Swift)](https://www.codewars.com/kata/reviews/58ae9afb3c21719e19000ce1/groups/5e9e60edd56be80001ed71f3)
+
+### Day 9: Thursday, April 23, 2020
+
+**Today's Progress**: I finished a kata today after two days hiatus. Not feeling like coding these days haha.
+
+**Thoughts:** This kata made me somewhat proud because I finished it with few code lines and in an efficient way (from my view) and it was really interesting. Feels good man!
+
+**Link to work:**   [Decimal to Factorial and Back (Swift)](https://www.codewars.com/kata/reviews/58b0360ed71b4668140007fd/groups/5ea1b9e9014f0c0001ec5cef)
+
